@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://reqres.in/api/users",
+    "video": false,
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+        "reportDir": "cypress/report",
+        "charts": true,
+        "reportPageTitle": "API-Test-Results"
+      }
+}
