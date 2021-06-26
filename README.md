@@ -1,4 +1,4 @@
-# Web Testing using Cypress
+# API Testing using Cypress
 
 ## Dependencies
 
